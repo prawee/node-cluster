@@ -19,8 +19,14 @@ Example&amp;Demo about node with cluster (practices)
 - Use multi-process + concurrency to implement 2 process tasks
 - Optimize last task code
 
+## Run it
+- into each folder and run it.
+
 ## Reference
-- thienlhh/node-cluster-sample
-- ddzyan/node-cluster-demo
-- godaddy/node-cluster-service
-- acanimal/nodejs-cluster-examples
+- Repository
+    - thienlhh/node-cluster-sample
+    - ddzyan/node-cluster-demo
+    - godaddy/node-cluster-service
+    - acanimal/nodejs-cluster-examples
+- Articles
+    - https://www.ibm.com/developerworks/cn/opensource/os-cn-nodejs-practice/index.html
