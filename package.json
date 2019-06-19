@@ -1,0 +1,27 @@
+{
+  "name": "node-cluster",
+  "version": "1.0.0",
+  "description": "Example&Demo node with cluster",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prawee/node-cluster.git"
+  },
+  "keywords": [
+    "node",
+    "cluster",
+    "load-balance"
+  ],
+  "author": "prawee wongsa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prawee/node-cluster/issues"
+  },
+  "homepage": "https://github.com/prawee/node-cluster#readme",
+  "dependencies": {
+    "bluebird": "^3.5.5"
+  }
+}
